@@ -1,0 +1,5 @@
+1)get traces
+2)runMacsim
+3)getData
+4)combine
+5)delet_txt
